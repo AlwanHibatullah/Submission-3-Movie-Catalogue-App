@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film 3</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv_show">Acara TV</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="ratings">Nilai</string>
+    <string name="language">Bahasa</string>
+    <string name="total_votes">Suara</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="image">Gambar</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie Catalogue 3</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tv_show">TV Show</string>
+    <string name="change_language">Change Language</string>
+    <string name="ratings">Ratings</string>
+    <string name="language">Language</string>
+    <string name="total_votes">Votes</string>
+    <string name="overview">Overview</string>
+    <string name="image">Image</string>
+</resources>
